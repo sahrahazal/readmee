@@ -32,7 +32,7 @@
 <details>
   <summary><b>🛠️&nbsp;&nbsp;My&nbsp;other&nbsp;profiles</b></summary>
   <br/>           
-          <a href="https://www.hackerrank.com/sahraahazal" target="_blank"><img align="center" src="https://www.hackerrank.com/wp-content/uploads/2020/05/hackerrank_logo-Pride.gif" alt="Sahra Hazal ERGİ" title="Sahra Hazal ERGİ's HackerRank Profile" height="45" width="300" /></a> &nbsp;       
+          <a href="https://www.hackerrank.com/sahraahazal" target="_blank"><img align="center" src="https://www.hackerrank.com/wp-content/uploads/2020/05/hackerrank_logo-Pride.gif" alt="Sahra Hazal ERGİ" title="Sahra Hazal ERGİ's HackerRank Profile" width="300" /></a> &nbsp;       
           <a href="https://stackoverflow.com/users/19383576/sahra-hazal-ergi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Sahra Hazal ERGİ" title="Sahra Hazal ERGİ's Stack Overflow Profile" height="45" width="45" /></a> &nbsp;
           <a href="https://app.patika.dev/sahrahazall" target="_blank"><img align="center" src="https://global-uploads.webflow.com/6097e0eca1e87557da031fef/609859a191abe5d64b17fed3_Patika%20logo.png" alt="Sahra Hazal ERGİ" title="Sahra Hazal ERGİ Patika.dev Profile" height="45" /></a> &nbsp; 
           <a href="https://coderbyte.com/profile/sahrahazal" target="_blank"><img align="center" src="https://coderbytestaticimages.s3.amazonaws.com/consumer-v2/nav/coderbyte_logo_digital_multi_light.png" alt="Sahra Hazal ERGİ" title="Sahra Hazal ERGİ Coderbyte Profile" height="45"/></a> &nbsp;
